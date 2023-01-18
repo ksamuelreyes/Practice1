@@ -8,6 +8,7 @@ namespace Practice1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Again");
+            Console.WriteLine("Hello Third");
         }
     }
 }
